@@ -1,2 +1,2 @@
 # -VUT-IAM
-Advanced Mathematics - 
+Some scripts using mathematical apparatus
