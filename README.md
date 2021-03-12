@@ -1,2 +1,2 @@
 # -VUT-IAM
-Some scripts using mathematical apparatus
+Some scripts for solving problems using a mathematical apparatus
